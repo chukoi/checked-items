@@ -1,0 +1,17 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checked-items {
+  border: 1px solid white;
+  min-height: 200px;
+  min-width: 200px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
